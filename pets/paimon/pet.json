@@ -1,0 +1,6 @@
+{
+  "id": "paimon",
+  "displayName": "Paimon",
+  "description": "A tiny floating star-guide companion inspired by Paimon.",
+  "spritesheetPath": "spritesheet.webp"
+}
