@@ -12,4 +12,4 @@ Codex-compatible animated pet inspired by Paimon.
 
 The packaged pet is also installed locally at:
 
-`C:\Users\rabbitdog\.codex\pets\paimon`
+`C:\Users\username\.codex\pets\paimon`
